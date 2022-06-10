@@ -1,0 +1,30 @@
+{
+  "question": [
+    "Q1. O tratamento precoce contra COVID-19 tem sido bem sucedido e pode prevenir a infecção pelo novo coronavírus.",
+    "Q2. A OMS afirmou que o modelo de isolamento da Suécia sem nenhum tipo de lockdown para frear a propagação do novo coronavírus, é um modelo a ser seguido.",
+    "Q3. Quando falamos na vacina CoronaVac é correto afirmar que:",
+    "Q4. Utilizar hidroxicloroquina, ivermectina, nitazoxanida e azitromicina contra COVID-19 ainda não tem eficácia comprovada, porém essas medicações também não fazem mal ao organismo."
+  ],
+  "answer": [
+    2,
+    2,
+    2,
+    1
+  ],
+  "options": [
+
+    ["Verdadeiro",
+      "Falso"      
+    ],
+    ["Verdadeiro",
+      "Falso" 
+    ],
+    ["A CoronaVac utiliza a tecnologia mRNA, com vírus criado em laboratório.",
+      "A CoronaVac utiliza vírus inativado, incapaz de se replicar, e estimula o sistema imune do organismo."
+      
+    ],
+    ["Falso",
+      "Verdadeiro"      
+    ]
+  ]
+}
